@@ -12,3 +12,19 @@ The calculator can perform basic mathematical operations including:
 - Clearing inputs
 
 It is fully implemented with vanilla JavaScript, meaning no libraries or frameworks were used.
+
+***
+### 🎨 Features
+
+- Simple, responsive layout using HTML and CSS
+- Real-time calculation display
+- Clear and intuitive button layout
+
+***
+### 🛠️ Technical Details
+
+- HTML – Structure of the calculator
+- CSS – Styling, layout, and responsive design
+- JavaScript – Core logic for handling operations and user input
+
+This project is an example of applying programming fundamentals in a real-world scenario and is ideal for beginners learning web development.
