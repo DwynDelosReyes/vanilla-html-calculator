@@ -1,6 +1,6 @@
 # Vanilla HTML Calculator
 
-📄 Project Overview
+### 📄 Project Overview
 
 Vanilla Calculator is a simple web-based calculator built using HTML, CSS, and JavaScript. This project was developed as part of Lasallian Codespace Capstone 1, in collaboration with @carloooseee. It demonstrates the fundamentals of DOM manipulation, event handling, and basic JavaScript programming in a practical, interactive application.
 
